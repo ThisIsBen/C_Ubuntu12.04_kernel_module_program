@@ -1,4 +1,11 @@
 # C_Ubuntu12.04_kernel_module_program
+ Objectives:  
+ Writing kernel modules  
+ Passing parameters to a kernel module  
+ Accessing /proc file  
+ Using for_each_process  
+ Using task_struct
+ 
 I wrote a pair of programs (a kernel module and a user program)  
 -Pass command argument(s) when install kernel module
   For instance,  $sudo insmod hello.ko command="showall"  
