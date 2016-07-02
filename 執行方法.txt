@@ -1,8 +1,0 @@
-執行方法:
-
-make
-sudo insmod klhello.ko command="" pid=""
-./a.out
-
-刪模組:
-sudo rmmod klhello
